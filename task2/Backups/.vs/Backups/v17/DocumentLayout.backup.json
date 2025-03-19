@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupJob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\BackupJob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\zipUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\zipUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupJob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\BackupJob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleBackupAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SingleBackupAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitBackupAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SplitBackupAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitStorage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SplitStorage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SplitStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SingleStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\Storage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\Storage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\zipUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\zipUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\RestorePoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\RestorePoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitBackupAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SplitBackupAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleBackupAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SingleBackupAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\BackupObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\BackupAlgorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleStorage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\SingleStorage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\BackupObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\RestorePoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EF702F-EA81-4C03-B78E-668CB1BE4CC7}|Backups\\Backups.vcxproj|solutionrelative:Backups\\RestorePoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\main.cpp",
+              "RelativeDocumentMoniker": "Backups\\main.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\main.cpp",
+              "RelativeToolTip": "Backups\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:27:01.489Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "zipUtils.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\zipUtils.cpp",
+              "RelativeDocumentMoniker": "Backups\\zipUtils.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\zipUtils.cpp",
+              "RelativeToolTip": "Backups\\zipUtils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T07:00:28.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zipUtils.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\zipUtils.h",
+              "RelativeDocumentMoniker": "Backups\\zipUtils.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\zipUtils.h",
+              "RelativeToolTip": "Backups\\zipUtils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T07:00:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackupAlgorithm.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupAlgorithm.h",
+              "RelativeDocumentMoniker": "Backups\\BackupAlgorithm.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupAlgorithm.h",
+              "RelativeToolTip": "Backups\\BackupAlgorithm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:45:28.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Storage.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\Storage.h",
+              "RelativeDocumentMoniker": "Backups\\Storage.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\Storage.h",
+              "RelativeToolTip": "Backups\\Storage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:44:18.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SplitStorage.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitStorage.cpp",
+              "RelativeDocumentMoniker": "Backups\\SplitStorage.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitStorage.cpp",
+              "RelativeToolTip": "Backups\\SplitStorage.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T07:24:52.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SplitStorage.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitStorage.h",
+              "RelativeDocumentMoniker": "Backups\\SplitStorage.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitStorage.h",
+              "RelativeToolTip": "Backups\\SplitStorage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:44:44.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackupJob.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupJob.cpp",
+              "RelativeDocumentMoniker": "Backups\\BackupJob.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupJob.cpp",
+              "RelativeToolTip": "Backups\\BackupJob.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:33:34.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackupJob.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupJob.h",
+              "RelativeDocumentMoniker": "Backups\\BackupJob.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupJob.h",
+              "RelativeToolTip": "Backups\\BackupJob.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:33:22.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingleStorage.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleStorage.h",
+              "RelativeDocumentMoniker": "Backups\\SingleStorage.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleStorage.h",
+              "RelativeToolTip": "Backups\\SingleStorage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:45:13.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SingleStorage.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleStorage.cpp",
+              "RelativeDocumentMoniker": "Backups\\SingleStorage.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleStorage.cpp",
+              "RelativeToolTip": "Backups\\SingleStorage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:45:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RestorePoint.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\RestorePoint.h",
+              "RelativeDocumentMoniker": "Backups\\RestorePoint.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\RestorePoint.h",
+              "RelativeToolTip": "Backups\\RestorePoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:29:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RestorePoint.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\RestorePoint.cpp",
+              "RelativeDocumentMoniker": "Backups\\RestorePoint.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\RestorePoint.cpp",
+              "RelativeToolTip": "Backups\\RestorePoint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:33:04.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SplitBackupAlgorithm.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitBackupAlgorithm.cpp",
+              "RelativeDocumentMoniker": "Backups\\SplitBackupAlgorithm.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitBackupAlgorithm.cpp",
+              "RelativeToolTip": "Backups\\SplitBackupAlgorithm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:46:27.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SplitBackupAlgorithm.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitBackupAlgorithm.h",
+              "RelativeDocumentMoniker": "Backups\\SplitBackupAlgorithm.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SplitBackupAlgorithm.h",
+              "RelativeToolTip": "Backups\\SplitBackupAlgorithm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:47:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SingleBackupAlgorithm.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleBackupAlgorithm.h",
+              "RelativeDocumentMoniker": "Backups\\SingleBackupAlgorithm.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleBackupAlgorithm.h",
+              "RelativeToolTip": "Backups\\SingleBackupAlgorithm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:47:19.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingleBackupAlgorithm.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleBackupAlgorithm.cpp",
+              "RelativeDocumentMoniker": "Backups\\SingleBackupAlgorithm.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\SingleBackupAlgorithm.cpp",
+              "RelativeToolTip": "Backups\\SingleBackupAlgorithm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:47:30.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BackupObject.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupObject.cpp",
+              "RelativeDocumentMoniker": "Backups\\BackupObject.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupObject.cpp",
+              "RelativeToolTip": "Backups\\BackupObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:34:13.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackupObject.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupObject.h",
+              "RelativeDocumentMoniker": "Backups\\BackupObject.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\git_Backups\\task2\\Backups\\Backups\\BackupObject.h",
+              "RelativeToolTip": "Backups\\BackupObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T07:35:16.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
